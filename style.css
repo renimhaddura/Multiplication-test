@@ -1,0 +1,9 @@
+.title {
+  font-family: "Whisper", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.start_btn:hover {
+  background-color: #333;
+  color: white;
+}
